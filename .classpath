@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.10.2/PermissionsEx-1.23.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.10.2/Vault_1.5.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.10.2/rscPermissions_v0.10.10b-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.7.10/PreciousStones.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit1710.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit110.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit164.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit19.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit172.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit175.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit178.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit180.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit183.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit184.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit194.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.11/craftbukkit-1.11-R0.1-SNAPSHOT-latest.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.11/bukkit-1.11-R0.1-SNAPSHOT-latest-shaded.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/0_Servers/craftbukkit-1.5.2-R1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.5.2/classes"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.7.10/worldedit-bukkit-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.7.10/worldguard-6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Admin/Desktop/Исходники/1.5.2/ProtocolLib-3.1.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

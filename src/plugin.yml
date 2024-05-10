@@ -1,0 +1,13 @@
+name: MineBlocker
+main : ru.mor.iv.mineblocker.MineBlockerPlugin
+version: 2.3.13
+author: MOR_IV
+commands:
+  mineblocker:
+    aliases: [mb]
+    description: Access to the commands.
+permissions:
+  MineBlockerUtils.operator:
+    description: Gives access to all commands.
+  MineBlockerUtils.bypass:
+    description: Bypass check.
