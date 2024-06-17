@@ -1,4 +1,4 @@
-# MineBlocker от mor_iv
+# MineBlocker от ruananta (ранее mor_iv)
 MineBlocker плагин для сервера Bukkit MineCraft [CB 1.6.* - 1.11.*]
 
 ## Описание
